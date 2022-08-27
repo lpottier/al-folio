@@ -22,8 +22,14 @@
 "eScience":
   url: https://www.escience-conference.org/
 
-"ICS":
+"APDCM":
+  url: https://www.ipdps.org/
+
+"ICCS":
   url: https://link.springer.com/conference/iccs-computsci
+
+"JOCS":
+  url: https://www.sciencedirect.com/journal/journal-of-computational-science
 
 "PEARC":
   url: https://pearc.acm.org/
@@ -33,6 +39,10 @@
 
 "FGCS":
   url: https://www.sciencedirect.com/journal/future-generation-computer-systems
+
+"Book":
+  url: 
+  color: "#00369f"
 
 "Thesis":
   url: https://tel.archives-ouvertes.fr/tel-01892395/
