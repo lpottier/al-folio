@@ -1,6 +1,39 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"BigData":
+  url: https://bigdataieee.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"WORKS":
+  url: https://works-workshop.org/
+
+"CCGrid":
+  url: https://dl.acm.org/conference/ccgrid
+
+"IJHPCA":
+  url: https://journals.sagepub.com/home/hpc
+
+"ICPP":
+  url: https://dl.acm.org/conference/icpp
+
+"Cluster":
+  url: https://clustercomp.org/committee/
+
+"CCPE":
+  url: https://onlinelibrary.wiley.com/journal/15320634
+
+"eScience":
+  url: https://www.escience-conference.org/
+
+"ICS":
+  url: https://link.springer.com/conference/iccs-computsci
+
+"PEARC":
+  url: https://pearc.acm.org/
+
+"JSSPP":
+  url: https://jsspp.org/
+
+"FGCS":
+  url: https://www.sciencedirect.com/journal/future-generation-computer-systems
+
+"Thesis":
+  url: https://tel.archives-ouvertes.fr/tel-01892395/
+  color: "#00369f"

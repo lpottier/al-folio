@@ -1,34 +1,31 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Ferreira da Silva":
+  - firstname: ["R.", "Rafael", "Rafael Silva"]
+    url: https://rafaelsilva.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Robert":
+  - firstname: ["Y.", "Yves"]
+    url: http://graal.ens-lyon.fr/~yrobert/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Benoit":
+  - firstname: ["A.", "Anne"]
+    url: http://graal.ens-lyon.fr/~abenoit/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Casanova": 
+  - firstname: ["H.", "Henri"]
+    url: https://henricasanova.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Aupy":
+  - firstname: ["G.", "Guillaume"]
+    url: https://people.bordeaux.inria.fr/gaupy/#Contact
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Perarnau":
+  - firstname: ["S.", "Swann"]
+    url: https://www.mcs.anl.gov/~perarnau/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Do":
+  - firstname: ["TMA.", "Tu Mai Anh"]
+    url: https://tumaianhdo.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Deelman":
+  - firstname: ["E.", "Ewa"]
+    url: https://deelman.isi.edu/
