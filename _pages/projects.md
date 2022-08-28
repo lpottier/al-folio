@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Non-exhaustive list of rojects I am working on or I worked on.
-nav: true
+description: A non-exhaustive list of projects I am working on, or I worked on.
+nav: false
 nav_order: 1
 display_categories: [Work, Personal]
 horizontal: false

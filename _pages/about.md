@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <em>Fluctuat nec mergitur</em>
+subtitle: 
 
 profile:
   align: right
