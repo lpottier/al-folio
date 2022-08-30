@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <em>Researcher in High-Performance Computing.</em>
+subtitle: <em>Researcher in Computer Science.</em>
 
 profile:
   align: right
